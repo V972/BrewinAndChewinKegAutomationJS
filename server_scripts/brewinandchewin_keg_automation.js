@@ -7,7 +7,7 @@
 // Special thanks to @chiefarug over at KubeJS Discord server 
 // for the help with getting under the hood of the mod
 
-// priority = 1
+// priority: 1
 
 onEvent('block.left_click', (event) => {
     if (event.item.id != 'minecraft:air' && 
