@@ -24,6 +24,8 @@ It adds custom left-click functionality, allowing to fill both the bugged/flawed
 Good question.
 Here's the rundown of the logic:
 
+#### *Post-2023-Minecraft-Live Tl;dr Edit:* It's basically like crafter, but also fills less filled slots.
+
 When you left-click the Keg:  
 * with something in hand  
 * while **not** crouching and **not** in creative    
